@@ -6,4 +6,8 @@ node_modules
 
 # Generated files
 .psci
+<<<<<<< HEAD
 output
+=======
+output
+>>>>>>> cf93ec42d764536dca292444ea3238a20f64db50
